@@ -1,0 +1,14 @@
+Pilhas
+Exercícios
+
+1. Implemente uma pilha usando vetores. Seu programa deve
+possuir as seguintes funções:
+
+• void push(int valor): insere um valor em uma pilha
+• void pop(): remove valor inserido no topo da pilha
+• void topoPilha(): imprime valor do elemento inserido no topo da
+pilha
+• void imprime(): imprime o conteúdo da pilha. Se a pilha estiver
+vazia, imprima a mensagem “Pilha vazia”
+Desenvolva uma função principal na qual todas essas funções sejam
+testadas.
